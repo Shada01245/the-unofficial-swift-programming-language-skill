@@ -1,0 +1,53 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "the-unofficial-swift-programming-language-skill",
+  "version": "1.0.0",
+  "description": "Unofficial packaging of The Swift Programming Language book as a Skill.",
+  "owner": {
+    "name": "Kyle Hughes",
+    "email": "kyle@kylehugh.es"
+  },
+  "plugins": [
+    {
+      "name": "programming-swift-skill",
+      "description": "The complete content of The Swift Programming Language book.",
+      "repository": "https://github.com/kylehughes/the-unofficial-swift-programming-language-skill",
+      "version": "6.2.1.20251121",
+      "author": {
+        "name": "Kyle Hughes",
+        "email": "kyle@kylehugh.es"
+      },
+      "license": "Apache-2.0",
+      "category": "documentation",
+      "keywords": [
+        "swift",
+        "documentation",
+        "apple",
+        "programming-language",
+        "ios",
+        "ipados",
+        "macos",
+        "tvos",
+        "visionos",
+        "watchos"
+      ],
+      "tags": [
+        "swift",
+        "documentation",
+        "apple",
+        "programming-language",
+        "ios",
+        "ipados",
+        "macos",
+        "tvos",
+        "visionos",
+        "watchos"
+      ],
+      "source": "./",
+      "skills": [
+        "./programming-swift"
+      ],
+      "strict": false
+    }
+  ]
+}
